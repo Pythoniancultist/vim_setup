@@ -13,6 +13,7 @@
 * [Deoplete-Jedi](https://github.com/zchee/deoplete-jedi)
 * [Vim-Airline](https://github.com/vim-airline/vim-airline)
 * [Tcomment-vim](https://github.com/tomtom/tcomment_vim)
+* [Vim-auto-save](https://github.com/vim-scripts/vim-auto-save)
 
 ### Plugin Settings
 
