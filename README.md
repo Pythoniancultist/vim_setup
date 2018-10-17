@@ -16,6 +16,6 @@
 
 ### Plugin Settings
 
-Check the init.nvim file
+Check the init.vim file
 
 
