@@ -7,7 +7,7 @@ Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'zchee/deoplete-jedi'
 Plug 'vim-airline/vim-airline'
 Plug 'tomtom/tcomment_vim'
-
+Plug 'kshenoy/vim-signature'
 call plug#end()
 
 "Open NERDTree at start
