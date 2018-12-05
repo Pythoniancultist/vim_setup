@@ -15,6 +15,7 @@
 * [Tcomment-vim](https://github.com/tomtom/tcomment_vim)
 * [Vim-auto-save](https://github.com/vim-scripts/vim-auto-save)
 * [Vim-signature](https://github.com/kshenoy/vim-signature)
+* [auto-pairs](https://github.com/jiangmiao/auto-pairs)
 
 ### Plugin Settings
 

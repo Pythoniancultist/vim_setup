@@ -8,6 +8,7 @@ Plug 'zchee/deoplete-jedi'
 Plug 'vim-airline/vim-airline'
 Plug 'tomtom/tcomment_vim'
 Plug 'kshenoy/vim-signature'
+Plug 'jiangmiao/auto-pairs'
 call plug#end()
 
 "Open NERDTree at start
