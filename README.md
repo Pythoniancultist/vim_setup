@@ -16,6 +16,7 @@
 * [Vim-auto-save](https://github.com/vim-scripts/vim-auto-save)
 * [Vim-signature](https://github.com/kshenoy/vim-signature)
 * [auto-pairs](https://github.com/jiangmiao/auto-pairs)
+* [csv.vim](https://github.com/chrisbra/csv.vim)
 
 ### Plugin Settings
 

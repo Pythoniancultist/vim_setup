@@ -9,6 +9,8 @@ Plug 'vim-airline/vim-airline'
 Plug 'tomtom/tcomment_vim'
 Plug 'kshenoy/vim-signature'
 Plug 'jiangmiao/auto-pairs'
+Plug 'chrisbra/csv.vim'
+
 call plug#end()
 
 "Open NERDTree at start
