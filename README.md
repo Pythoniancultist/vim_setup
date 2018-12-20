@@ -2,7 +2,7 @@
 
 ### Editor
 
-* NeoVim + Vim-Plug + Tmux
+* NeoVim(0.3+) + Vim-Plug + Tmux
 
 ### Plugins
 
