@@ -7,11 +7,15 @@ Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'zchee/deoplete-jedi'
 Plug 'vim-airline/vim-airline'
 Plug 'tomtom/tcomment_vim'
+Plug 'vim-scripts/vim-auto-save'
 Plug 'kshenoy/vim-signature'
 Plug 'jiangmiao/auto-pairs'
 Plug 'chrisbra/csv.vim'
 
 call plug#end()
+
+"AutoSave Enable
+let g:auto_save = 1
 
 "Open NERDTree at start
 autocmd vimenter * NERDTree
