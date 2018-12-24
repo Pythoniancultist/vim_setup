@@ -11,6 +11,7 @@ Plug 'vim-scripts/vim-auto-save'
 Plug 'kshenoy/vim-signature'
 Plug 'jiangmiao/auto-pairs'
 Plug 'chrisbra/csv.vim'
+Plug 'kien/ctrlp.vim'
 
 call plug#end()
 
