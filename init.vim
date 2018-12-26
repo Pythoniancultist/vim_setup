@@ -15,9 +15,6 @@ Plug 'kien/ctrlp.vim'
 
 call plug#end()
 
-"AutoSave Enable
-let g:auto_save = 1
-
 "Open NERDTree at start
 autocmd vimenter * NERDTree
 
