@@ -36,6 +36,7 @@ let g:ale_sign_column_always = 1
 "Colorscheme
 set background=dark
 colorscheme solarized8
+highlight Comment ctermfg=65a071 
 
 "Close Deoplete preview window
 set completeopt-=preview
