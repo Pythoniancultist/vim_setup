@@ -19,8 +19,15 @@
 * [csv.vim](https://github.com/chrisbra/csv.vim)
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim)
 
-### Plugin Settings
+### Vim Plugin Settings
 
-Check the init.vim file
+Check init.vim for details.
 
+### Tmux Plugin Settings
+
+Install; https://github.com/tmux-plugins/tpm for plugin management.
+
+* [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect.
+
+Check .tmux.conf for details.
 
