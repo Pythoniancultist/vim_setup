@@ -27,7 +27,7 @@ Check init.vim for details.
 
 Install; https://github.com/tmux-plugins/tpm for plugin management.
 
-* [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
+* [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
 
 Check .tmux.conf for details.
 
