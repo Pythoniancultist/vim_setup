@@ -18,6 +18,7 @@
 * [auto-pairs](https://github.com/jiangmiao/auto-pairs)
 * [csv.vim](https://github.com/chrisbra/csv.vim)
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim)
+* [jedi-vim](https://github.com/davidhalter/jedi-vim)
 
 ### Vim Plugin Settings
 

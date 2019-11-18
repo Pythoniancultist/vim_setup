@@ -1,3 +1,5 @@
+let mapleader="\<Space>"
+
 call plug#begin('~/.local/share/nvim/plugged')
 
 Plug 'scrooloose/nerdtree'
@@ -12,11 +14,13 @@ Plug 'kshenoy/vim-signature'
 Plug 'jiangmiao/auto-pairs'
 Plug 'chrisbra/csv.vim'
 Plug 'kien/ctrlp.vim'
+Plug 'davidhalter/jedi-vim'
 
 call plug#end()
 
 "Open NERDTree at start
 autocmd vimenter * NERDTree
+
 
 "Easier navigation
 nnoremap <C-J> <C-W><C-J>
@@ -56,3 +60,4 @@ set mouse=a
 let g:auto_save = 1 
 let g:auto_save_in_insert_mode = 0 
 let g:auto_save_silent = 1
+
