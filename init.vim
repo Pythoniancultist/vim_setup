@@ -31,6 +31,8 @@ nnoremap <C-H> <C-W><C-H>
 "Number lines
 set nu
 
+"Disable jedi complete
+let g:jedi#completions_enabled = 0
 "Enable Deoplete
 let g:deoplete#enable_at_startup = 1
 
@@ -60,4 +62,3 @@ set mouse=a
 let g:auto_save = 1 
 let g:auto_save_in_insert_mode = 0 
 let g:auto_save_silent = 1
-
