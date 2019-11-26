@@ -1,7 +1,7 @@
 let mapleader="\<Space>"
 
-"Jedi & Deplete compability
-let g:jedi#auto_initialization = 0
+"Disable jedi complete
+
 let g:jedi#completions_enabled = 0
 let g:jedi#auto_vim_configuration = 0
 let g:jedi#use_tabs_not_buffers = 0
@@ -71,9 +71,3 @@ set mouse=a
 let g:auto_save = 1 
 let g:auto_save_in_insert_mode = 0 
 let g:auto_save_silent = 1
-
-
-
-
-
-
