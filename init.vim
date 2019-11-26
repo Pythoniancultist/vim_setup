@@ -24,6 +24,7 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'chrisbra/csv.vim'
 Plug 'kien/ctrlp.vim'
 Plug 'davidhalter/jedi-vim', {'for': 'python'}
+Plug 'junegunn/seoul256.vim'
 
 call plug#end()
 
@@ -48,10 +49,18 @@ let g:deoplete#enable_at_startup = 1
 "Let ALE stay on all times
 let g:ale_sign_column_always = 1
 
-"Colorscheme
-set background=dark
-colorscheme solarized8
-highlight Comment ctermfg=65a071 
+"Colorscheme Solarized8
+"set background=dark
+"colorscheme solarized8
+"highlight Comment ctermfg=65a071
+
+"Colorscheme Seoul256
+let g:seoul256_background = 237
+colo seoul256
+
+
+
+
 
 "Close Deoplete preview window
 set completeopt-=preview
@@ -71,3 +80,9 @@ set mouse=a
 let g:auto_save = 1 
 let g:auto_save_in_insert_mode = 0 
 let g:auto_save_silent = 1
+
+
+
+
+
+
